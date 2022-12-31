@@ -2,7 +2,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wenhongjie&label=Profile%20views&color=0e75b6&style=flat" alt="deviltea" /> </p>
 
 ## 简介
-主职: 前端工程师  
+主职: 百万粉UP主, 老王的老公
+
+副职: 前端工程师
 
 主要工作: 前端工程化, 维护UI组件库, 优化组件交互, 分享和布道最前沿的技术.
 
