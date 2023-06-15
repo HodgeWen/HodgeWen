@@ -2,23 +2,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wenhongjie&label=Profile%20views&color=0e75b6&style=flat" alt="deviltea" /> </p>
 
 ## 简介
-主职: 未来百万粉UP主, 老王的老公
-
-副职: 前端TL
-
-经验: 
-- 三年以上前端TL, 包括带团队理解和深入typescript, 熟悉软件工程化, 熟悉操作系统底层, 开发框架升级(vue2升级vue3)
-- 三年以上架构经验, (比如从js + vue2 到 ts + vue3 + 结构控制 + element-ultra + cat-kit + 低代码 + 审批流.), 使用drawio来进行架构图设计, 除此之外还会参与后端的架构设计建议和技术选型
-- 6年linux经验(不是为了证明什么而是linux做开发如虎添翼, 安装各种环境只需要一行命令, 有些beta版本的项目也优先在linux上体验比如bun, 而且linux系统更加接近服务器环境, 懂的都懂)
-- 丰富的后端经验, 熟悉多种并发模型(多线程并发, 协程并发, 事件循环并发, 我们在nodejs中会同时使用多线程和时间循环), 丰富的底层技能, 包括对流, 计算机硬件, 异步的理解
-
 主要工作: 前端工程化, 维护UI组件库, 优化组件交互, 分享和布道最前沿的技术.
 
 主要维护项目: cat-kit喵喵工具箱, element-ultra企业级组件库
 
 喜欢的语言排名: typescript(主职语言, 能不喜欢吗), Golang(高性能,低资源消耗, 交叉编译, 活跃的社区, 不过他的继承模型某些时候依然很难用), rust(高性能, 报错提示优雅, 文档丰富)
 
-最喜欢的工具: deepL(不会吧, 不会还有人没有用过deepl翻译吧), v2ray, tampermonkey
+喜欢的工具: deepL, v2ray, tampermonkey
+
+## 开源经历
+2022一年里主要维护element-ultra和cat-kit这两个项目, 前者是基于element-plus源码的一套, 实际上已经改了很多代码, 同时增加了很多组件, 后者是一个js库, 包含了前端和后端, 主要是一些库
+用起来很不舒服, 所以就自己做了, 无需考虑兼容因此性能和体积会提升巨大, 同时运用了更加现代的TS特性, 让语法提示变得更加友好.
+
+在element-plus的基础上开发组件库无疑可以节省大量的开发事件, 然而element-plus充斥着大量的vue2版本的代码, 本就一坨稀烂的代码更是雪上加霜, ts特性也没有完全利用, 加上Vue3的更新, 因此开了个新坑, 它就是ultra-ui.
+
+ultra-ui被设计为绝对简洁, 不做兼容性妥协, 高性能的vue3组件库, 基于最新的vue3.3特性, 比如新的宏, 组件范型等等. 它适用于使用chrome浏览器的用户, 因此它很小众.
 
 ## 技术栈
 
