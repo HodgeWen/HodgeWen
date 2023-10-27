@@ -3,6 +3,8 @@
 
 ![轻歌小筑 GitHub stats](https://github-readme-stats.vercel.app/api?username=HodgeWen)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HodgeWen)
+
 ## 简介
 主要工作: 前端工程化, 维护UI组件库, 优化组件交互, 分享和布道最前沿的技术.
 
