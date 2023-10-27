@@ -1,11 +1,13 @@
 <h1 align="center"> 你好, 我是倾歌小筑💞️ </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wenhongjie&label=Profile%20views&color=0e75b6&style=flat" alt="deviltea" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HodgeWen&show_icons=true&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HodgeWen&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HodgeWen&show_icons=true&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars" />
 </div>
 
 ## 简介
