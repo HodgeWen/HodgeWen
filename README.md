@@ -27,7 +27,7 @@ Part-time human, full-time curiosity engine.
 
 ## 互联网生存状态
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HodgeWen&show_icons=true&theme=transparent&hide_border=true)
+[![HodgeWen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HodgeWen)](https://github.com/HodgeWen/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com?user=HodgeWen&theme=transparent&hide_border=true)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=HodgeWen&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -38,8 +38,7 @@ Part-time human, full-time curiosity engine.
 ## 留言板
 
 - GitHub: https://github.com/HodgeWen
-- Email: your_email@example.com
+- Email: emailatwen@gmail.com
 
 ---
 
-如果你也喜欢有趣、有效、并且有点不按套路出牌的创作方式，欢迎来打个招呼。
