@@ -27,7 +27,6 @@ Part-time human, full-time curiosity engine.
 
 ## 互联网生存状态
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HodgeWen&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 ![GitHub Streak](https://streak-stats.demolab.com?user=HodgeWen&theme=transparent&hide_border=true)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=HodgeWen&label=Profile%20Views&color=0e75b6&style=flat)
 
