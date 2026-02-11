@@ -1,36 +1,45 @@
-<h1 align="center"> Hi, 我是倾歌小筑💞️ </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wenhongjie&label=Profile%20views&color=0e75b6&style=flat" alt="deviltea" /> </p>
+# 你好，我是轻歌小筑
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HodgeWen&layout=compact" />
-</div>
+一个把灵感当待办、把待办当连续剧的人。  
+Part-time human, full-time curiosity engine.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HodgeWen&show_icons=true&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars" />
-</div>
+> 我不保证每天都高产，
+> 但我保证每天都在折腾点新东西。
 
-## 简介
+---
 
-主要工作: 前端工程化, 维护 UI 组件库, 优化组件交互, 分享最前沿的技术.
+## 人设说明书
 
-## 技术栈
+- 白天：认真做事
+- 晚上：认真想点离谱但有趣的事
+- 日常状态：在「这主意不太对劲」和「等等，好像可行」之间反复横跳
+- 特长：学习新东西很快，忘记昨天吃了什么也很快
 
-<p>
+---
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="vuejs" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="vuejs" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="vuejs" width="40" height="40"/>
-</p>
+## 我在这里干嘛
+
+- 记录奇怪但有生命力的想法
+- 把脑洞从“听起来很酷”推进到“真的能跑”
+- 反复迭代，直到它看起来像是“本来就该这样”
+
+---
+
+## 互联网生存状态
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HodgeWen&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=HodgeWen&theme=transparent&hide_border=true)
+![Visitor Badge](https://komarev.com/ghpvc/?username=HodgeWen&label=Profile%20Views&color=0e75b6&style=flat)
+
+（这些图表看起来很专业，能有效掩盖我偶尔凌晨两点改标题的事实。）
+
+---
+
+## 留言板
+
+- GitHub: https://github.com/HodgeWen
+- Email: your_email@example.com
+
+---
+
+如果你也喜欢有趣、有效、并且有点不按套路出牌的创作方式，欢迎来打个招呼。
